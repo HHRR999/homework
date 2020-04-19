@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--三-->
+    <string-array name="testTitle">
+        <item>为了使android适应不同分辨率的机型，布局时字体单位应用</item>
+        <item>在手机开发中，常用的数据库是哪一个？</item>
+        <item>下列哪个属性是专用于相对布局的？</item>
+    </string-array>
+
+    <string-array name="testOption1">
+        <item>dp</item>
+        <item>dip</item>
+        <item>px</item>
+        <item>sp</item>
+    </string-array>
+
+    <string-array name="testOption2">
+        <item>Oracle</item>
+        <item>DB2</item>
+        <item>Mysql</item>
+        <item>SQLite</item>
+    </string-array>
+
+    <string-array name="testOption3">
+        <item>layout_toRightOf</item>
+        <item>stretchColumns</item>
+        <item>layout_width</item>
+        <item>orientation</item>
+    </string-array>
+    <array name="testOptionAll">
+        <item>@array/testOption1</item>
+        <item>@array/testOption2</item>
+        <item>@array/testOption3</item>
+    </array>
+    <integer-array name="anwser">
+        <item>4</item>
+        <item>4</item>
+        <item>1</item>
+    </integer-array>
+
+
+    <!--四-->
+    <string-array name="prodArr">
+        <item>可口可乐CocaCola</item>
+        <item>皮制箱leatherBox</item>
+        <item>统一泡面instantnoodles </item>
+        <item>Tcl电视</item>
+        <item>金士顿U盘</item>
+        <item>中国简史brief history of China </item>
+        <item>朗科U盘Netac</item>
+        <item>海尔空调air conditioner</item>
+        <item>张裕红酒 red wine</item>
+        <item>MP3播放器</item>
+        <item>吸类器suction trap</item>
+        <item>油烟机 lampblack machine</item>
+        <item>口香糖Chewing gum</item>
+        <item>唐诗三百首three hundred poems of Tang Dynasty</item>
+        <item>拉杆箱pull rod box</item>
+    </string-array>
+    <string-array name="catArr">
+        <array name="prodImg">
+        <item>@drawable/1</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+        <item>@drawable/sample_thumb_2</item>
+            <item>@drawable/sample_thumb_2</item>
+        </array>
+
+
+
+
+    </string-array>
+
+    <string-array name="moviename">
+        <item>meirenyu</item>
+        <item>少林足球</item>
+        <item>功夫</item>
+        <item>一出好戏</item>
+        <item>心花路放</item>
+        <item>夏洛特烦恼</item>
+        <item>西虹市首富</item>
+    </string-array>
+    <string-array name="movieyanyuan">
+        <item>周星驰</item>
+        <item>周星驰</item>
+        <item>周星驰</item>
+        <item>黄渤</item>
+        <item>黄渤</item>
+        <item>沈腾</item>
+        <item>沈腾</item>
+    </string-array>
+
+
+    <string-array name="musicname">
+        <item>稻香</item>
+        <item>青花瓷</item>
+        <item>听妈妈的话</item>
+        <item>蓝莲花</item>
+        <item>像风一样自由</item>
+        <item>山丘</item>
+        <item>给自己的歌</item>
+        <item>当爱已成往事</item>
+    </string-array>
+    <string-array name="singer">
+        <item>周杰伦</item>
+        <item>周杰伦</item>
+        <item>周杰伦</item>
+        <item>许巍</item>
+        <item>许巍</item>
+        <item>李宗盛</item>
+        <item>李宗盛</item>
+        <item>李宗盛</item>
+    </string-array>
+
+    <string-array name="novername">
+        <item>《论语》</item>
+        <item>《史记》</item>
+        <item>《红与黑》</item>
+        <item>《老人与海》</item>
+        <item>《呐喊》</item>
+        <item>《倾城之恋》</item>
+        <item>《边城》</item>
+        <item>《四世同堂》</item>
+    </string-array>
+    <string-array name="author">
+        <item>孔子</item>
+        <item>司马迁</item>
+        <item>司汤达</item>
+        <item>海明威</item>
+        <item>鲁迅</item>
+        <item>张爱玲</item>
+        <item>沈从文</item>
+        <item>老舍</item>
+
+    </string-array>
+</resources>
+
+
+
